@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: "My name"
+author: 陳羿瑄
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-NULL
+台灣雲林縣虎尾高中
 
 - 我決定來這裡的動機？
 
-NULL
+對心理與統計抱有熱忱與憧憬
 
 - 我對這門課的期望？
 
-NULL
+希望能學習到電腦程式的運用以及心理方面的應用
